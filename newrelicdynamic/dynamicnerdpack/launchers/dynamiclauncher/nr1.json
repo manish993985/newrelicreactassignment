@@ -1,0 +1,7 @@
+{
+  "schemaType": "LAUNCHER",
+  "id": "dynamiclauncher",
+  "displayName": "Dynamiclauncher",
+  "description": "Describe me",
+  "rootNerdletId": "5af70401-057d-44dc-8b27-2f3b5e168b36.dynamicnerdlet"
+}

@@ -1,0 +1,17 @@
+.nr1-bfe67f88-f476-44ea-b896-945224daeb67 .EmptyState,.nr1-bfe67f88-f476-44ea-b896-945224daeb67 .ErrorState{
+  height:100%;
+  text-align:center;
+}
+.nr1-bfe67f88-f476-44ea-b896-945224daeb67 .EmptyState-cardBody,.nr1-bfe67f88-f476-44ea-b896-945224daeb67 .ErrorState-cardBody{
+  height:100%;
+  box-sizing:border-box;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+}
+
+.nr1-bfe67f88-f476-44ea-b896-945224daeb67 .ErrorState-headingText{
+  color:#a9a9a9;
+}
+
+/*# sourceMappingURL=https://cli-assets.service.datanerd.us/artifact-index-production/bfe67f88-f476-44ea-b896-945224daeb67/det/bfe67f88-f476-44ea-b896-945224daeb67--styles~3c7539a3.css.map*/
